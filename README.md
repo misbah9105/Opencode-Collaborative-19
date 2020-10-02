@@ -1,18 +1,18 @@
-# [Opencode Collaborative 2019](https://opencodeiiita.github.io/)
+# [Open code Collaborative 2019] (https://opencodeiiita.github.io/)
 
-![Opencode](assets/img/opencode-banner.jpg)
+! [Open code](assets/imp/opencode-banner.jpg)
 
-[![OpenCode](https://img.shields.io/badge/Open-Code-ff6a00.svg?style=flat-square)](https://opencode18.github.io)
+[! [OpenCode](https://img.shields.io/badge/Open-Code-ff6a00.svg?style=flat-square)](https://opencode18.github.io)
 
-Chat with us on [Slack](https://opencodeiiita.slack.com)
+Chat with us on [Slack] (https://opencodeiiita.slack.com)
 
-Join Zulip Chat [Zulip](https://opencode.zulipchat.com/)
+Join Zulia Chat [Zulia] (https://opencode.zulipchat.com/)
 
-Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
+Like us on [Face book] (https://www.facebook.com/opencodeiiita/)
 
 ## About us
 
-[OpenCode](https://opencodeiiita.github.io/) is a month long open source program organised by [GeekHaven IIIT Allahabad](https://geekhaven.iiita.ac.in). OpenCode attracts talent from all over the world. People contribute to various open source projects. We welcome everyone to experience the awesome event and win exciting prizes.
+[Open Code](https://opencodeiiita.github.io/) is a month long open source program organized by [Geek Haven IIIT Allahabad] (https://geekhaven.iiita.ac.in). Open Code attracts talent from all over the world. People contribute to various open source projects. We welcome everyone to experience the awesome event and win exciting prizes.
 
 ## Requirements:
 
@@ -27,14 +27,14 @@ Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
 
 ## Adding a mentor
 
-To add a mentor open `mentors.json` and please maintain the following format EXACTLY (replacing values where indicated):
+To add a mentor open `mentors. son` and please maintain the following format EXACTLY (replacing values where indicated):
 ```
      {
 
         "name" : "Mentors Name",
-        "imageurl" : "mentor/image.jpg",
+        "imager" : "mentor/image.jpg",
         "about" : "Hello I'm a web developer",
-        "facebook" : "url",
+        "face book" : "url",
         "github" : "url",
         "twitter" : "url"
      }
@@ -44,30 +44,30 @@ IMPORTANT:
 
 - All images must be optimized before uploaded to the repo via commit or PR.
 - The images should be of square resolution.
-- If you do not want to include social media accounts, leave the field empty `"facebook":""`.
+- If you do not want to include social media accounts, leave the field empty `"face book":""`.
 
 ## Adding yourselves to participant section
 
-To add yourself to student section you need to open the file `participants.json` and please maintain the following format EXACTLY (replacing values where indicated):
+To add yourself to student section you need to open the file `participants. son` and please maintain the following format EXACTLY (replacing values where indicated):
 
  ```
     {
 
         "name" : "Name",
-        "imageurl" : "contestant/avatar.jpg",
+        "imager" : "contestant/avatar.jpg",
         "about" : "Hello I'm a web developer",
         "college" : "My college",
-        "facebook" : "url",
+        "face book" : "url",
         "github" : "url",
         "twitter" : "url",
-        "referral" : "who refered you?"
+        "referral" : "who referred you?"
      }
 ```
 IMPORTANT:
 
 - All images must be optimized before uploaded to the repo via commit or PR.
 - The images should be of square resolution.
-- If you do not want to include social media accounts, leave the field empty `"facebook":""`.
+- If you do not want to include social media accounts, leave the field empty `"face book":""`.
 
 - While working with JSON, check the file using [JSON Lint](https://jsonlint.com/) before opening pull request
 
@@ -106,13 +106,13 @@ We will follow the official GitHub documentation for setting up the repo.
 
 ## Claiming up an issue
 
-- To claim an issue please comment on the issue as `@opencodebot claim` and the bot will assign you the issue.
+- To claim an issue please comment on the issue as `@opencodebot claim` and the boot will assign you the issue.
 
 ## Guidelines and Best practices
 
 Please help us follow the best practice to make it easy for the reviewer as well as the contributor. We want to focus on the code quality more than on managing pull request ethics.
 
-- People before code: If any of the following rules are violated, the pull-requests must not be rejected. This is to create an easy and joyful onboarding process for new programmers and first-time contributors.
+- People before code: If any of the following rules are violated, the pull-requests must not be rejected. This is to create an easy and joyful on boarding process for new programmers and first-time contributors.
 
 - Single commit per pull request and name the commit as something meaningful, example: Adding <-your-name-> in students/mentors section.
 
@@ -130,4 +130,4 @@ Please help us follow the best practice to make it easy for the reviewer as well
 
 - Communicate: Whether you are working on a new feature or facing a doubt please feel free to ask us on our slack channel. We will be happy to help you out.
 
-### Happy Coding :v:
+### Happy Coding: v:
